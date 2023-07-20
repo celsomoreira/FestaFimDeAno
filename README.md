@@ -5,5 +5,5 @@
 Para rodar o projeto digite 
 
 ```
-npm install reach 
+node app.js
 ```
